@@ -2,14 +2,13 @@
 
 A Machine Learning-based web application that classifies SMS messages as **Spam 🚨** or **Ham ✅ (Not Spam)** using Natural Language Processing (NLP) and a Multinomial Naive Bayes model.
 
----
 
 ## 🌐 Live Demo
 
 👉 **Try it here:**  
 https://sms-spam-classifier101.streamlit.app/
 
----
+
 
 ## 🔥 Features
 
