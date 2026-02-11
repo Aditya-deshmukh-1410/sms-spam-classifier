@@ -6,10 +6,10 @@ A Machine Learning-based web application that classifies SMS messages as **Spam 
 
 ## 🔥 Features
 
-- 🚀 Real-time SMS Classification – Enter any message and get instant predictions.
-- 💡 User-friendly Streamlit Interface – Simple, intuitive, and interactive.
-- 📊 Machine Learning Powered – Uses NLP preprocessing and TF-IDF vectorization.
-- 🎯 Detects spam messages like:
+-  Real-time SMS Classification – Enter any message and get instant predictions.
+-  User-friendly Streamlit Interface – Simple, intuitive, and interactive.
+-  Machine Learning Powered – Uses NLP preprocessing and TF-IDF vectorization.
+-  Detects spam messages like:
   - "Congratulations! You have won ₹5000 cash. Claim now!!!"
   - "Free entry in a weekly contest. Call 09061701461 now!"
   - "Hey, you won’t believe this deal I found online!"
