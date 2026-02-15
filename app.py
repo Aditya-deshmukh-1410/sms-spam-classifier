@@ -24,14 +24,18 @@ st.markdown("### 🧪 Try Sample Messages")
 
 spam_examples = [
     "Win ₹5000 cash now!!! Call immediately to claim your prize.",
-    "Urgent! Your bank account will be blocked. Verify details now.",
-    "Congratulations! You have won a free gift voucher."
+    "FREE entry in 2 a weekly competition to win cash prizes.",
+    "Congratulations! You have won a free gift voucher.",
+    "You have won a lottery. Text CLAIM to receive your reward.",
+    "URGENT! You have been selected for a cash reward. Reply YES now."
 ]
 
 safe_examples = [
     "Meeting postponed to 6 pm today. Please inform everyone.",
     "I will reach home by 8 pm. Don't wait for dinner.",
-    "Please submit the assignment by tomorrow evening."
+    "Please submit the assignment by tomorrow evening.",
+    "Hey, are we still meeting tomorrow evening?",
+    "I will be late today, please have dinner without me."
 ]
 
 
