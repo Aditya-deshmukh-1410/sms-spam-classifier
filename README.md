@@ -16,7 +16,7 @@ https://sms-spam-classifier101.streamlit.app/
 -  User-friendly Streamlit Interface – Simple, intuitive, and interactive.
 -  Machine Learning Powered – Uses NLP preprocessing and TF-IDF vectorization.
     
-- ✅ Handles normal messages like:
+- ✅ Handles normal messages like:  
   - "Call me when you reach home."
   - "Let's grab lunch tomorrow."
     
